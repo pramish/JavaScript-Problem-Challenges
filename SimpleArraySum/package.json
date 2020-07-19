@@ -1,0 +1,12 @@
+{
+  "name": "SimpleArraySum",
+  "version": "1.0.0",
+  "description": "For example: [1,2,3] -> 1+2+3-> 6",
+  "main": "SimpleArraySum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
