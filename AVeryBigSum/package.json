@@ -1,0 +1,12 @@
+{
+  "name": "AVeryBigSum",
+  "version": "1.0.0",
+  "description": "Link to the question is https://www.hackerrank.com/challenges/a-very-big-sum/problem",
+  "main": "big_sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
